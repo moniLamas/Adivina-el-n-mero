@@ -1,4 +1,4 @@
-# Adivina-el-numero
+# Adivina el número
 Juego creado con JavaScript vanilla
 
 Ejercicio para la evalución intermedia del módulo 2 en Adalab. JavaScript.
