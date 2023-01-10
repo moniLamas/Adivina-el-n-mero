@@ -2,7 +2,7 @@
     padding-top: 40px;
     padding-left: 40px;
     height: 500px;
-    border: indigo 4px solid;
+    border: blue 4px solid;
     border-radius: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -15,14 +15,14 @@
 .form {
     margin-bottom: 60px;
     font-size: 26px;
-    color: indigo;
+    color: blue;
     display: flex;
     flex-direction: column;
     width: 300px;
 }
 
 .guessField {
-    color: indigo;
+    color: blue;
     font-size: 20px;
     margin-bottom: 15px;
 }
@@ -30,14 +30,14 @@
 .submit {
     width: 120px;
     font-size: 20px;
-    color: indigo;
+    color: blue;
     background-color: rgb(140, 240, 200);
-    border-color: indigo;
+    border-color: blue;
     border-radius: 15px;
 }
 
 .clue, .attempts {
-    color: indigo;
+    color: blue;
     font-size: 20px;
     margin-bottom: 15px;
     height: 20px;
